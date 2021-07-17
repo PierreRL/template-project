@@ -17,6 +17,9 @@
 ### Production
 
 `npm run build`
+
 to build
+
 `npm run prod`
+
 to run in production
